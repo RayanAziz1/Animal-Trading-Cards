@@ -1,0 +1,36 @@
+/* add your CSS here */
+
+#h3{
+    font-size: bold;
+}
+
+img {
+     width: 300px;
+    }
+
+.interesting-fact {
+    font-style: italic;
+ }
+
+.list {
+    list-style: none;
+    padding: 0px
+}
+
+.bold { font-weight: bold;
+}
+
+#main-card{ 
+    border: 1px rgb(221, 221, 221) solid;
+    width: 300px;
+    padding: 20px;
+    box-shadow: 5px 5px rgb(207, 207, 207)
+ }
+
+#border { 
+    border: 1px rgb(221, 221, 221) solid; 
+    margin: 0px;
+    padding: 10px;
+}
+
+body { background-color: rgb(255, 255, 255);}
